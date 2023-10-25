@@ -1,0 +1,7 @@
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\bin\Debug\лаб2410.exe.config
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\bin\Debug\лаб2410.exe
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\bin\Debug\лаб2410.pdb
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\obj\Debug\лаб2410.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\obj\Debug\лаб2410.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\obj\Debug\лаб2410.exe
+C:\Users\Vlad\Desktop\2410Лаб\лаб2410\лаб2410\obj\Debug\лаб2410.pdb
